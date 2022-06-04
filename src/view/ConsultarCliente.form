@@ -126,7 +126,6 @@
                     <Column editable="false" title="Telefone" type="java.lang.Object"/>
                   </Table>
                 </Property>
-                <Property name="rowHeight" type="int" value="20"/>
               </Properties>
             </Component>
           </SubComponents>

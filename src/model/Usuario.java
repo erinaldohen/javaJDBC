@@ -10,6 +10,7 @@
  * @author Erinaldo Henrique
  *
  */
+
 package model;
 
 public class Usuario {

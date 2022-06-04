@@ -1,15 +1,20 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Nome da Classe: ExcluirCliente
+ * 
+ * Versão: 1.0
+ *
+ * Data: 08/07/2020
+ * 
+ * Código liberado pelo desenvolvedor.
+ *
+ * @author Erinaldo Henrique
+ *
  */
+
 package view;
 
 import conect.Conexao;
 import dao.ClienteDao;
-import dao.UsuarioDao;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;

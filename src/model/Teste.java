@@ -1,14 +1,18 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Nome da Classe: Teste
+ * 
+ * Versão: 1.0
+ *
+ * Data: 08/07/2020
+ * 
+ * Código liberado pelo desenvolvedor.
+ *
+ * @author Erinaldo Henrique
+ *
  */
+
 package model;
 
-/**
- *
- * @author henco
- */
 public class Teste {
     public static void main(String[] args) {
         Cliente cliente = new Cliente();

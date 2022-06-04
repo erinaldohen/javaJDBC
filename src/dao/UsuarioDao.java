@@ -1,5 +1,5 @@
 /*
- * Nome da Classe: CAdastroDeUsuarioDao
+ * Nome da Classe: UsuarioDao
  * 
  * Versão: 1.0
  *
